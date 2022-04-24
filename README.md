@@ -1,4 +1,4 @@
-# DRV_V1_R1
+# DRV_600_R1
 Custom 600W BLDC motor controller for a one wheel gyro balancing robot test bed (work in progress)
 
 Wish list:
